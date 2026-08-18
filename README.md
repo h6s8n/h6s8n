@@ -40,7 +40,7 @@ I'm a passionate Full-Stack Developer specializing in modern web architectures a
     </td>
     <td width="50%" valign="top">
       <h4>🏢 Malkadeh Platform</h4>
-      <p>A comprehensive real estate and management platform. Developed using modern web architectures with multiple microservices. Engineered for high performance and deployed with advanced custom CI/CD pipelines.</p>
+      <p>A comprehensive Dropshipping and E-commerce platform. Developed using modern web architectures with multiple microservices (Seller, Supplier, User). Engineered for high performance and deployed with advanced custom CI/CD pipelines.</p>
     </td>
   </tr>
 </table>
