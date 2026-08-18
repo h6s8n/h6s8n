@@ -29,6 +29,22 @@ I'm a passionate Full-Stack Developer specializing in modern web architectures a
   <a href="https://core.telegram.org/bots/api"><img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API"></a>
 </p>
 
+### 💼 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎟️ Lottery & Telegram Bot System</h4>
+      <p>A highly scalable, Web3-inspired lottery and rewards platform. Features a custom <b>Nuxt 3</b> frontend, a robust <b>Laravel 12</b> API, and a deeply integrated <b>Telegram Bot (Node.js)</b>. Deployed via a seamless custom Docker Monorepo architecture.</p>
+      <a href="https://github.com/h6s8n/lottery">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 Malkadeh Platform</h4>
+      <p>A comprehensive real estate and management platform. Developed using modern web architectures with multiple microservices. Engineered for high performance and deployed with advanced custom CI/CD pipelines.</p>
+    </td>
+  </tr>
+</table>
+
 ### 📊 GitHub Stats
 
 <div align="center">
