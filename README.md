@@ -10,7 +10,7 @@
 Full-Stack Developer focused on scalable backend architectures, modern reactive frontends, and practical developer/AI tooling.
 
 - 🏢 Building **[Malkadeh](https://malkadeh.ir)** — a multi-panel e-commerce and marketplace ecosystem (`Laravel 12`, `Nuxt 3`, `MySQL`, `Docker`).
-- 🤖 Creating developer automation & AI workflow tools like **Agent Log Reviewer** and IDE extensions.
+- 🤖 Creating developer automation, empirical AI agent harnesses (**[Two-Tier Procedural Memory & Harness](https://github.com/h6s8n/antigravity-two-tier-harness)**), **Agent Log Reviewer**, and IDE extensions.
 - ⚙️ Strong focus on clean architecture, domain modeling, API reliability, and streamlined CI/CD deployments.
 
 ### 🛠️ Tech Stack & Tools
@@ -36,25 +36,32 @@ Full-Stack Developer focused on scalable backend architectures, modern reactive 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4>🧠 Antigravity Two-Tier Harness</h4>
+      <p>Zero-daemon procedural memory &amp; empirical harness (<code>GEMINI.md</code> + <code>Rules</code> + <code>Skills &lt;= 3.5 KB</code> + <b>SQLite FTS5 &amp; Char-3-gram RRF</b>) solving <code>N = 1</code> classifier collapse within 5s IDE hook gates (<b>EN / FA</b>).</p>
+      <a href="https://github.com/h6s8n/antigravity-two-tier-harness">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
       <h4>🏢 Malkadeh Platform</h4>
       <p>Multi-panel B2B/B2C e-commerce &amp; dropshipping platform spanning dedicated <b>User</b>, <b>Seller</b>, and <b>Supplier</b> Nuxt 3 portals backed by a <b>Laravel 12</b> API and Dockerized VPS infrastructure.</p>
       <a href="https://malkadeh.ir">🌐 malkadeh.ir</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🤖 Agent Log Reviewer</h4>
       <p>Session analysis &amp; automated tutorial extraction pipeline built with a <b>FastAPI</b> backend, <b>React</b> dashboard, and custom <b>VS Code</b> extension for reviewing AI coding agent trajectories.</p>
       <a href="https://github.com/h6s8n/agent-code-reviewer">🔗 View Repository</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🌐 Antigravity Persian &amp; Arabic RTL</h4>
       <p>VS Code &amp; Google Antigravity IDE extension that automatically fixes bidirectional Persian/Arabic text layout in agent chat panels and applies <b>Vazirmatn</b> typography.</p>
       <a href="https://github.com/h6s8n/antigravity-persian-rtl">🔗 View Repository</a>
     </td>
-    <td width="50%" valign="top">
-      <h4>🎟️ Private Systems &amp; Trading Automation</h4>
-      <p>Additional production architectures including a Telegram-integrated Lottery platform (Laravel 12 + Nuxt 3 + Node.js) and algorithmic MetaTrader 5 EAs (<a href="https://github.com/h6s8n/Unimeta">Unimeta MQL5</a>).</p>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🎟️ Private Production Systems &amp; Trading Automation</h4>
+      <p>Additional closed-source architectures including a Telegram-integrated Lottery platform (Laravel 12 + Nuxt 3 + Node.js) and algorithmic MetaTrader 5 EAs (<b>Unimeta MQL5</b> — Private).</p>
     </td>
   </tr>
 </table>
