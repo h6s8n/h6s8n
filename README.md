@@ -1,17 +1,17 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Abolhasan+👋;Full-Stack+Web+Developer;Specialized+in+Laravel+%26+Nuxt;Building+Telegram+Bots+%26+Web3+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2CA5E0&center=true&vCenter=true&width=640&lines=Hi,+I'm+Abolhasan+%F0%9F%91%8B;Full-Stack+Web+Developer;Laravel+%C2%B7+Nuxt+3+%C2%B7+FastAPI;AI+Agent+Tooling+%26+Automation" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate Full-Stack Developer specializing in modern web architectures and automated systems. I build high-performance applications from complex backends to reactive frontends.
+Full-Stack Developer focused on scalable backend architectures, modern reactive frontends, and practical developer/AI tooling.
 
-- 🚀 Currently working on robust **Monorepo** architectures and **Microservices**.
-- 🛠 Building advanced **Telegram Bots** integrated with **Laravel** and **Nuxt 3**.
-- 🐳 Strong advocate for clean code, **Docker** deployments, and CI/CD pipelines.
+- 🏢 Building **[Malkadeh](https://malkadeh.ir)** — a multi-panel e-commerce and marketplace ecosystem (`Laravel 12`, `Nuxt 3`, `MySQL`, `Docker`).
+- 🤖 Creating developer automation & AI workflow tools like **Agent Log Reviewer** and IDE extensions.
+- ⚙️ Strong focus on clean architecture, domain modeling, API reliability, and streamlined CI/CD deployments.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -20,12 +20,14 @@ I'm a passionate Full-Stack Developer specializing in modern web architectures a
   <a href="https://php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
   <a href="https://nuxt.com/"><img src="https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt"></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue"></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <br>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://core.telegram.org/bots/api"><img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API"></a>
 </p>
 
@@ -34,13 +36,25 @@ I'm a passionate Full-Stack Developer specializing in modern web architectures a
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎟️ Lottery & Telegram Bot System</h4>
-      <p>A highly scalable, Web3-inspired lottery and rewards platform. Features a custom <b>Nuxt 3</b> frontend, a robust <b>Laravel 12</b> API, and a deeply integrated <b>Telegram Bot (Node.js)</b>. Deployed via a seamless custom Docker Monorepo architecture.</p>
-      <a href="https://github.com/h6s8n/lottery">🔗 View Project</a>
+      <h4>🏢 Malkadeh Platform</h4>
+      <p>Multi-panel B2B/B2C e-commerce &amp; dropshipping platform spanning dedicated <b>User</b>, <b>Seller</b>, and <b>Supplier</b> Nuxt 3 portals backed by a <b>Laravel 12</b> API and Dockerized VPS infrastructure.</p>
+      <a href="https://malkadeh.ir">🌐 malkadeh.ir</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🏢 Malkadeh Platform</h4>
-      <p>A comprehensive Dropshipping and E-commerce platform. Developed using modern web architectures with multiple microservices (Seller, Supplier, User). Engineered for high performance and deployed with advanced custom CI/CD pipelines.</p>
+      <h4>🤖 Agent Log Reviewer</h4>
+      <p>Session analysis &amp; automated tutorial extraction pipeline built with a <b>FastAPI</b> backend, <b>React</b> dashboard, and custom <b>VS Code</b> extension for reviewing AI coding agent trajectories.</p>
+      <a href="https://github.com/h6s8n/agent-code-reviewer">🔗 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Antigravity Persian &amp; Arabic RTL</h4>
+      <p>VS Code &amp; Google Antigravity IDE extension that automatically fixes bidirectional Persian/Arabic text layout in agent chat panels and applies <b>Vazirmatn</b> typography.</p>
+      <a href="https://github.com/h6s8n/antigravity-persian-rtl">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎟️ Private Systems &amp; Trading Automation</h4>
+      <p>Additional production architectures including a Telegram-integrated Lottery platform (Laravel 12 + Nuxt 3 + Node.js) and algorithmic MetaTrader 5 EAs (<a href="https://github.com/h6s8n/Unimeta">Unimeta MQL5</a>).</p>
     </td>
   </tr>
 </table>
